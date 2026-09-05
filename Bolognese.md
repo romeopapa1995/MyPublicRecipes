@@ -1,7 +1,7 @@
-Bolognese
+# Bolognese
 Serves 4
 
-Ingredients
+## Ingredients
 - 1 onion  
 - 500g beef mince  
 - 2 tins diced tomatoes  
@@ -15,7 +15,7 @@ Ingredients
 - Parmesan cheese, to serve  
 - Pinch of sugar (optional)  
 
-Method
+## Method
 1. Heat a large pan over medium heat. Add a splash of oil and cook the diced onion until soft and translucent.  
 2. Add the beef mince and cook, breaking it up with a spoon, until browned.  
 3. Stir in the diced tomatoes and tomato paste. If using, add a splash of red wine to rinse out the tins into the pan.  
